@@ -21,7 +21,7 @@ View the interactive dashboard here:
 ## Files
 - Tableau workbook (.twbx)
 - Dataset used for analysis
-- Dashboard screenshot
+- Dashboard png
 
 ## Next Steps
 Future work could include applying this framework to real-time data and extending analysis to broader roster decision-making contexts.
