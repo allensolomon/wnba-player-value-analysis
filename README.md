@@ -15,9 +15,7 @@ To identify high-impact players delivering strong performance relative to cost, 
 - Excel / Data Processing
 
 ## Dashboard
-View the interactive dashboard here:  
-(https://public.tableau.com/views/WNBAPlayerValueAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
-
+View the interactive dashboard here: (https://public.tableau.com/views/WNBAPlayerValueAnalysis/Dashboard1)
 ## Files
 - Tableau workbook (.twbx)
 - Dataset used for analysis
