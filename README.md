@@ -25,3 +25,6 @@ View the interactive dashboard here:
 
 ## Next Steps
 Future work could include applying this framework to real-time data and extending analysis to broader roster decision-making contexts.
+
+## Data Source
+WNBA player statistics sourced from Basketball Reference and salary data from Spotrac.
