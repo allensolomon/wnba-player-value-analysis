@@ -1,7 +1,4 @@
 # WNBA Player Value Analysis
-
-**Author:** Allen Solomon
-
 This project evaluates player performance relative to salary investment using WNBA data.
 
 ## Objective
@@ -28,3 +25,6 @@ Future work could include applying this framework to real-time data and extendin
 
 ## Data Source
 WNBA player statistics sourced from Basketball Reference and salary data from Spotrac.
+
+
+**Author:** Allen Solomon
