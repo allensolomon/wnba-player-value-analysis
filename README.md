@@ -1,5 +1,7 @@
 # WNBA Player Value Analysis
 
+**Author:** Allen Solomon
+
 This project evaluates player performance relative to salary investment using WNBA data.
 
 ## Objective
